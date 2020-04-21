@@ -12,6 +12,7 @@ Precision:       0.7500
 Recall:          0.7500
 F1 Score:        0.7500  
 
+Needs Tuning!
 ==================================================================
 
 c.r.o.ResearchXrayCovid19 - ***Fit called on training data.
