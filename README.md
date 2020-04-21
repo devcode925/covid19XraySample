@@ -1,6 +1,8 @@
 # COVID-19 Xray Study using CNN from deeplearning4J library.
 
-Using a Convolution Neural Network to examine Covid19 Xrays. Over the last year, I have been working on machine learning with Python.
+Using a Convolution Neural Network to examine Covid19 Xrays.  
+
+Over the last year, I have been working on machine learning with Python.
 Like everyone else, I have been following the Covid19 news as well. In Kaggle, I ran across a Python Notebook that examined Xrays of Covid19.
 Further research turned up more Python projects such as https://github.com/UCSD-AI4H/COVID-CT. I wanted to do something similar, so I found
 a java library called Deeplearning4J. And decided to create a CNN model to determine if an xray is covid19 or not.
@@ -16,11 +18,12 @@ c.r.o.ResearchXrayCovid19 - ***Fit called on training data.
 c.r.o.ResearchXrayCovid19 - 
 Example that is labeled NonCOVID the model predicted NonCOVID
 
-saw some 85% too but not consistent
+saw some 85% too but not consistent.
+
 Accuracy:        0.8571
- Precision:       0.8000
- Recall:          1.0000
- F1 Score:        0.8889
+Precision:       0.8000
+Recall:          1.0000
+F1 Score:        0.8889
 Precision, recall & F1: reported for positive class (class 1 - "1") only
 
 
