@@ -46,3 +46,4 @@ CITE:
 https://pubs.rsna.org/doi/10.1148/radiol.2020200905
 https://deeplearning4j.konduit.ai/models/multilayernetwork
 
+![Results from Deeplearning4J UI ](https://github.com/devcode925/covid19XraySample/blob/master/results.png)
