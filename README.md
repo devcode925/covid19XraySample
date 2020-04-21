@@ -28,7 +28,7 @@ Precision, recall & F1: reported for positive class (class 1 - "1") only
 
 
 
-images from https://github.com/UCSD-AI4H/COVID-CT
+Images for testing are from https://github.com/UCSD-AI4H/COVID-CT
 
 
 CITE:
@@ -38,9 +38,9 @@ CITE:
   title   = {Sample-Efficient Deep Learning for COVID-19 Diagnosis Based on CT Scans},
   journal = {medrxiv},
   year    = {2020},
-
 }
-@article{zhang2020artificial,
+
+@Article{zhang2020artificial,
   title={Artificial Intelligence Distinguishes COVID-19 from Community Acquired Pneumonia on Chest CT},
   author={Li, Lin and Qin, Lixin and Xu, Zeguo and Yin, Youbing and Wang, Xin and Kong, Bin and Bai, Junjie and Lu, Yi and Fang, Zhenghan and Song, Qi and Cao, Kunlin and others},
   journal={Radiology},
